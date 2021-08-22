@@ -1,0 +1,13 @@
+C:\Users\rojel\Documents\Visual Studio 2017\Projects\Auto-Mouse-Clicker-master\Auto Mouse Clicker\bin\Debug\Auto Mouse Clicker.exe.config
+C:\Users\rojel\Documents\Visual Studio 2017\Projects\Auto-Mouse-Clicker-master\Auto Mouse Clicker\bin\Debug\Auto Mouse Clicker.exe
+C:\Users\rojel\Documents\Visual Studio 2017\Projects\Auto-Mouse-Clicker-master\Auto Mouse Clicker\bin\Debug\Auto Mouse Clicker.pdb
+C:\Users\rojel\Documents\Visual Studio 2017\Projects\Auto-Mouse-Clicker-master\Auto Mouse Clicker\bin\Debug\Auto Mouse Clicker.xml
+C:\Users\rojel\Documents\Visual Studio 2017\Projects\Auto-Mouse-Clicker-master\Auto Mouse Clicker\obj\Debug\Auto Mouse Clicker.vbprojResolveAssemblyReference.cache
+C:\Users\rojel\Documents\Visual Studio 2017\Projects\Auto-Mouse-Clicker-master\Auto Mouse Clicker\obj\Debug\Auto_Mouse_Clicker.Form1.resources
+C:\Users\rojel\Documents\Visual Studio 2017\Projects\Auto-Mouse-Clicker-master\Auto Mouse Clicker\obj\Debug\Auto_Mouse_Clicker.Resources.resources
+C:\Users\rojel\Documents\Visual Studio 2017\Projects\Auto-Mouse-Clicker-master\Auto Mouse Clicker\obj\Debug\Auto_Mouse_Clicker.SplashMessage.resources
+C:\Users\rojel\Documents\Visual Studio 2017\Projects\Auto-Mouse-Clicker-master\Auto Mouse Clicker\obj\Debug\Auto Mouse Clicker.vbproj.GenerateResource.Cache
+C:\Users\rojel\Documents\Visual Studio 2017\Projects\Auto-Mouse-Clicker-master\Auto Mouse Clicker\obj\Debug\Auto Mouse Clicker.exe
+C:\Users\rojel\Documents\Visual Studio 2017\Projects\Auto-Mouse-Clicker-master\Auto Mouse Clicker\obj\Debug\Auto Mouse Clicker.xml
+C:\Users\rojel\Documents\Visual Studio 2017\Projects\Auto-Mouse-Clicker-master\Auto Mouse Clicker\obj\Debug\Auto Mouse Clicker.pdb
+C:\Users\rojel\Documents\Visual Studio 2017\Projects\Auto-Mouse-Clicker-master\Auto Mouse Clicker\obj\Debug\Auto_Mouse_Clicker.LuckyBot.resources
